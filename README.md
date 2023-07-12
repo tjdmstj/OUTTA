@@ -1,5 +1,5 @@
 # OUTTA
-<p> Outta Boot-Camp </p>
+<h2> Outta Boot-Camp </h2>
 <p> 
 - outta boot-camp를 진행하면서 수행했던 과제 정리</br>
 - 출처 : OUTTA
